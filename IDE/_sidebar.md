@@ -1,2 +1,2 @@
 * [上一頁](/?id=main)
-* [Home](RELEASE/README.md)
+* [IDE概述](RELEASE/README.md)
