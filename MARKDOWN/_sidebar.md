@@ -1,5 +1,5 @@
 * [上一頁](/?id=main)
-* [markdown 教學首頁](MARKDOWN/README.md)
+* [markdown 概述](MARKDOWN/README.md)
     * [HTML運用](MARKDOWN/HTML.md)
     * [特殊字元轉換](MARKDOWN/WORD.md)
     * [表格運用](MARKDOWN/TABLE.md)
