@@ -111,11 +111,13 @@ Suspendisse id sem consectetuer libero luctus adipiscing.
     *   A list item with a blockquote:
 
         > This is a blockquote.
+
         > inside a list item.
 
 *   A list item with a blockquote:
 
     > This is a blockquote.
+    
     > inside a list item.
 
 #### 內涵程式區塊（兩個Tab）
