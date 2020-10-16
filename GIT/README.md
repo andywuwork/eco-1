@@ -4,10 +4,16 @@
 
 ![alt github](github_logo.jpg)
 
+# [使用教學 - 連猴子都能懂的GIT指南](https://backlog.com/git-tutorial/tw/intro/intro1_1.html)
+
 #### 開源的用戶端軟體
+
+[GIT程式](https://git-scm.com/download)
+
+* [Windows安裝檔](https://github.com/git-for-windows/git/releases/download/v2.28.0.windows.1/Git-2.28.0-64-bit.exe)
 
 [TortoiseGit](https://tortoisegit.org/)
 
-[Windows安裝檔](https://download.tortoisegit.org/tgit/2.11.0.0/TortoiseGit-2.11.0.0-64bit.msi)
+* [Windows安裝檔](https://download.tortoisegit.org/tgit/2.11.0.0/TortoiseGit-2.11.0.0-64bit.msi)
 
-[中文語系檔](https://download.tortoisegit.org/tgit/2.11.0.0/TortoiseGit-LanguagePack-2.11.0.0-64bit-zh_TW.msi)
+* [中文語系檔](https://download.tortoisegit.org/tgit/2.11.0.0/TortoiseGit-LanguagePack-2.11.0.0-64bit-zh_TW.msi)
