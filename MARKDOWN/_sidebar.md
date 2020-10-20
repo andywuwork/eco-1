@@ -1,4 +1,4 @@
-* [上一頁](/?id=main)
+* [上一頁](/#main)
 * [markdown 概述](MARKDOWN/README.md)
     * [HTML運用](MARKDOWN/HTML.md)
     * [特殊字元轉換](MARKDOWN/WORD.md)
