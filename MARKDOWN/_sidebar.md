@@ -12,3 +12,4 @@
     * [強調](MARKDOWN/MARK.md)
     * [圖片](MARKDOWN/PIC.md)
     * [其他](MARKDOWN/OTHER.md)
+    * [範例](IDE/DEMO.md)
