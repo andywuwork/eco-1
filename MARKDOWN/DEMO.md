@@ -42,13 +42,16 @@
 
     <details>
     <summary>DKS </summary>
-    <pre><code>
+    <pre>
+        <code>
 
     | 功能 | Table_Name | Table_Descrip | 歷史區 |
     | --- | ---------- | -------------- | ----- |
     | 專案 | UI_Prj_Main | [專案主檔](/UI_Prj_Main.md) | 無 |
     | 專案 | UI_PrjExportImportLog | [專案匯出入記錄](/UI_PrjExportImportLog.md) | 無 |
-    </code></pre>
+
+        </code>
+    </pre>
     </details>
 
 <details>
@@ -56,9 +59,10 @@
 <pre><code>
 
 | 功能 | Table_Name | Table_Descrip | 歷史區 |
-| --- | ---------- | -------------- | ----- |
+|------|------------|----------------|-------|
 | 專案 | UI_Prj_Main | [專案主檔](/UI_Prj_Main.md) | 無 |
 | 專案 | UI_PrjExportImportLog | [專案匯出入記錄](/UI_PrjExportImportLog.md) | 無 |
+
 </code></pre>
 </details>
 
@@ -75,12 +79,11 @@
 
     </details>
 
-
 <details>
 <summary>Project </summary>
 
 | 功能 | Table_Name | Table_Descrip | 歷史區 |
-| ---- | ---------- | ------------- | ------ |
+|----|----------|-------------|------|
 | 事件 | UI_Flow | [事件主檔](/UI_Flow.md) | 有 |
 
 </details>
